@@ -1,0 +1,6 @@
+{
+  "name": "therealobjects-website",
+  "compatibility_date": "2025-09-15",
+  "pages_build_output_dir": "./dist",
+  "compatibility_flags": ["nodejs_compat"]
+}
